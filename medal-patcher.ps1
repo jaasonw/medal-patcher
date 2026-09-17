@@ -1,4 +1,4 @@
-﻿<#
+<#
     medal-patcher - TUI patcher for the Medal desktop app (Electron).
 
     Run:  irm https://raw.githubusercontent.com/<you>/medal-patcher/main/medal-patcher.ps1 | iex
